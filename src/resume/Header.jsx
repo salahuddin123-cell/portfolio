@@ -34,7 +34,7 @@ const Header = () => {
             <h2 id="aboutme">About me</h2>
 
             <p id="q">
-              Hi, My name is Salahuddin Sk.I am a junio web developer. I have
+              Hi, My name is Salahuddin Sk.I am a junior web developer. I have
               done my B.Tech in Mechanical Engineering in 2020 .I have hands on
               skills of front-end web technologies like
               Html,CSS,JavaScript,Bootstrap , Jquery and RecatJs.I I have
